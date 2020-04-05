@@ -1,0 +1,10 @@
+<p class="p2">001	
+ 梅斯
+:布雷斯特
+  <span class="red">1.95</span> <span class="red">2.90</span> 3.75</p><p class="p2">002	
+ 皮拉西卡
+:伊图阿诺
+  <span class="red">2.55</span> 2.95 <span class="red">2.55</span></p><p class="p2">004	
+ 拉普拉塔
+:德尔瓦耶
+  <span class="red">1.35</span> 4.00 7.50</p><p>预测选项为: [1.95,2.90] * [2.55] * [1.35] <br></p><p>若你投入了 100 元, 预计中奖奖金为 335.64375 - 499.1625元<br></p>

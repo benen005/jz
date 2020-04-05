@@ -1,0 +1,7 @@
+<p class="p2">106	
+ 水原三星
+:光州FC
+  <span class="red">1.68</span> 3.45 4.20</p><p class="p2">120	
+ 白帽
+:多伦多FC
+  <span class="red">1.89</span> 3.35 <span class="red">3.40</span></p><p>预测选项为: [1.89胜,3.40负] * [1.68胜]  <br></p><p>若你投入了 100 元, 预计中奖奖金为 158.76 - 285.6元<br></p>

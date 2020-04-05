@@ -1,0 +1,10 @@
+<p class="p2">003	
+ 杜塞尔多
+:奥厄
+  <span class="red">1.61</span> 3.50 4.60</p><p class="p2">007	
+ 阿雅GFCO
+:昂热
+  <span class="red">1.99</span> 2.80 3.80</p><p class="p2">016	
+ FC埃因
+:福图纳
+  <span class="red">1.16</span> <span class="red">5.75</span> 11.25</p><p>预测选项为: [1.16,5.75] * [1.61] * [1.99] <br></p><p>若你投入了 100 元, 预计中奖奖金为 185.8262 - 921.12125元<br></p>
